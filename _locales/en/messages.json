@@ -1,0 +1,89 @@
+{
+  "appName": {
+    "message": "New Mail Notifier"
+  },
+  "appDescription": {
+    "message": "Shows notifications when new mail arrives in Thunderbird 128+."
+  },
+  "unknownAuthor": {
+    "message": "(unknown)"
+  },
+  "noSubject": {
+    "message": "(no subject)"
+  },
+  "notifTitleSingle": {
+    "message": "New mail in"
+  },
+  "notifTitleGroup": {
+    "message": "new messages in"
+  },
+  "notifMoreEmails": {
+    "message": "…and"
+  },
+  "seenInitialized": {
+    "message": "📑 seen initialized:"
+  },
+  "seenEmails": {
+    "message": "emails"
+  },
+  "skippedEmail": {
+    "message": "⏭️ Skipped email"
+  },
+  "skippedEmailIn": {
+    "message": "in folder"
+  },
+  "skippedEmailType": {
+    "message": "type:"
+  },
+  "notifSingle": {
+    "message": "🔔 [single]"
+  },
+  "notifGroup": {
+    "message": "🔔 [group]"
+  },
+  "notifGroupIn": {
+    "message": "emails in"
+  },
+  "subscribedEvent": {
+    "message": "✅ Subscribed to onNewMailReceived"
+  },
+  "noEventSupport": {
+    "message": "⚠️ onNewMailReceived unavailable, polling only"
+  },
+  "bgStarted": {
+    "message": "🛠️ background.js started, runtime.id ="
+  },
+  "focusWindowFailed": {
+    "message": "⚠️ Failed to focus window:"
+  },
+  "openEmailFailed": {
+    "message": "❌ Failed to navigate to email:"
+  },
+  "getFolderFailed": {
+    "message": "❌ getFolderObj failed:"
+  },
+  "checkUnreadFailed": {
+    "message": "❌ checkUnread failed:"
+  },
+  "initSeenFailed": {
+    "message": "❌ initializeSeen failed:"
+  },
+  "optionsTitle": {
+    "message": "⚙️ Settings"
+  },
+  "optionsIntervalLabel": {
+    "message": "Mail check interval (sec)"
+  },
+  "optionsIntervalHint": {
+    "message": "Recommended: 30. Min: 10, max: 300."
+  },
+  "optionsSave": {
+    "message": "Save"
+  },
+  "optionsSaved": {
+    "message": "Saved"
+  },
+  "pollingRestarted": {
+    "message": "🔄 Polling restarted, interval:"
+  }
+}

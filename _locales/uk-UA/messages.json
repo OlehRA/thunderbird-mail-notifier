@@ -1,0 +1,89 @@
+{
+  "appName": {
+    "message": "Сповіщення про нові листи"
+  },
+  "appDescription": {
+    "message": "Показує сповіщення при надходженні нових листів у Thunderbird 128+."
+  },
+  "unknownAuthor": {
+    "message": "(невідомий)"
+  },
+  "noSubject": {
+    "message": "(без теми)"
+  },
+  "notifTitleSingle": {
+    "message": "Нове в"
+  },
+  "notifTitleGroup": {
+    "message": "нових листів у"
+  },
+  "notifMoreEmails": {
+    "message": "…і ще"
+  },
+  "seenInitialized": {
+    "message": "📑 seen ініціалізовано:"
+  },
+  "seenEmails": {
+    "message": "листів"
+  },
+  "skippedEmail": {
+    "message": "⏭️ Пропущено лист"
+  },
+  "skippedEmailIn": {
+    "message": "у теці"
+  },
+  "skippedEmailType": {
+    "message": "тип:"
+  },
+  "notifSingle": {
+    "message": "🔔 [одиничне]"
+  },
+  "notifGroup": {
+    "message": "🔔 [групове]"
+  },
+  "notifGroupIn": {
+    "message": "листів у"
+  },
+  "subscribedEvent": {
+    "message": "✅ Підписано на onNewMailReceived"
+  },
+  "noEventSupport": {
+    "message": "⚠️ onNewMailReceived недоступний, тільки polling"
+  },
+  "bgStarted": {
+    "message": "🛠️ background.js запущено, runtime.id ="
+  },
+  "focusWindowFailed": {
+    "message": "⚠️ Не вдалося фокусувати вікно:"
+  },
+  "openEmailFailed": {
+    "message": "❌ Не вдалося перейти до листа:"
+  },
+  "getFolderFailed": {
+    "message": "❌ getFolderObj failed:"
+  },
+  "checkUnreadFailed": {
+    "message": "❌ checkUnread failed:"
+  },
+  "initSeenFailed": {
+    "message": "❌ initializeSeen failed:"
+  },
+  "optionsTitle": {
+    "message": "⚙️ Налаштування"
+  },
+  "optionsIntervalLabel": {
+    "message": "Інтервал перевірки пошти (сек)"
+  },
+  "optionsIntervalHint": {
+    "message": "Рекомендовано: 30. Мін: 10, макс: 300."
+  },
+  "optionsSave": {
+    "message": "Зберегти"
+  },
+  "optionsSaved": {
+    "message": "Збережено"
+  },
+  "pollingRestarted": {
+    "message": "🔄 Polling перезапущено, інтервал:"
+  }
+}
